@@ -15,7 +15,7 @@ LoRA 또는 Stable Diffusion 모델 학습 전 **데이터셋을 정제**하는 
 
 ## 🛠️ 설치 및 실행 방법
 
-1. 이 저장소를 클론합니다:
+1. 저장소 클론
 
 ```bash
 git clone https://github.com/squirrel765/lora-image-filter.git
